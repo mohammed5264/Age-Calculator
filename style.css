@@ -1,5 +1,15 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #4facfe, #00f2fe);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 20px;
+}
 body{
-
 margin:0;
 font-family:Arial, sans-serif;
 background:linear-gradient(135deg,#4facfe,#00f2fe);
@@ -74,5 +84,9 @@ color:#222;
 
 background:#333;
 margin-top:15px;
-
+#container-c0ecde4fedb8458fb99ba3cda3b8a8b2 {
+    margin-top: auto;
+    width: 100%;
+    max-width: 400px;
+}
 }
